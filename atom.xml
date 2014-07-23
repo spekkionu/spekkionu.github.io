@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Spekkionu's MTG Blog]]></title>
-  <link href="http://www/spekkionu.com/atom.xml" rel="self"/>
-  <link href="http://www/spekkionu.com/"/>
-  <updated>2014-07-23T00:45:52-07:00</updated>
-  <id>http://www/spekkionu.com/</id>
+  <link href="http://www.spekkionu.com/atom.xml" rel="self"/>
+  <link href="http://www.spekkionu.com/"/>
+  <updated>2014-07-23T00:55:41-07:00</updated>
+  <id>http://www.spekkionu.com/</id>
   <author>
     <name><![CDATA[Jonathan Bernardi]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Magic Workstation Guide]]></title>
-    <link href="http://www/spekkionu.com/2006/06/magic-workstation-guide/"/>
+    <link href="http://www.spekkionu.com/2006/06/magic-workstation-guide/"/>
     <updated>2006-06-22T16:31:41-07:00</updated>
-    <id>http://www/spekkionu.com/2006/06/magic-workstation-guide</id>
+    <id>http://www.spekkionu.com/2006/06/magic-workstation-guide</id>
     <content type="html"><![CDATA[<p>As I&rsquo;ve mentioned many times before I use <a href="http://www.magicworkstation.com/">Magic Workstation</a> for my deck building and testing.  Jason mentioned that a guide on how to use this program would make for a helpful article.  This article will assume you already have the program installed and set up with all the proper sets and images.  It will focus more on the actual use of the program.</p>
 
 <!--more-->
@@ -135,9 +135,9 @@
   
   <entry>
     <title type="html"><![CDATA[Peasant Magic]]></title>
-    <link href="http://www/spekkionu.com/2006/06/peasant-magic/"/>
+    <link href="http://www.spekkionu.com/2006/06/peasant-magic/"/>
     <updated>2006-06-17T16:30:58-07:00</updated>
-    <id>http://www/spekkionu.com/2006/06/peasant-magic</id>
+    <id>http://www.spekkionu.com/2006/06/peasant-magic</id>
     <content type="html"><![CDATA[<p>Working on this site has brought back the itch to write Magic articles. However I had no idea what to write about. After a week or two with no ideas Dustin planned out a small Peasant Magic tournament. Since I haven&rsquo;t done a tournament report before this seemed like the perfect opportunity.</p>
 
 <!--more-->
@@ -256,9 +256,9 @@
   
   <entry>
     <title type="html"><![CDATA[Ravnica Sleepers]]></title>
-    <link href="http://www/spekkionu.com/2005/11/ravnica-sleepers/"/>
+    <link href="http://www.spekkionu.com/2005/11/ravnica-sleepers/"/>
     <updated>2005-11-04T15:23:05-07:00</updated>
-    <id>http://www/spekkionu.com/2005/11/ravnica-sleepers</id>
+    <id>http://www.spekkionu.com/2005/11/ravnica-sleepers</id>
     <content type="html"><![CDATA[<p>A while ago I posted a set review of sorts for Ravnica. This is a bit of a follow up. Now that the set has been out a while I have more data to work with as far as experience playing with the cards goes. I also think I&rsquo;ve figured out what a few of the set&rsquo;s sleepers are. Once again I&rsquo;ll be ignoring insignificant or limited only cards and very obvious cards. You don&rsquo;t need me to tell you that <a class="mtg-card-link" rel="#mtg-card-popup" href="http://gatherer.wizards.com/Handlers/Image.ashx?size=small&type=card&name=Birds%20of%20Paradise&options=" data-card="Birds of Paradise">Birds of Paradise</a> is good, <a class="mtg-card-link" rel="#mtg-card-popup" href="http://gatherer.wizards.com/Handlers/Image.ashx?size=small&type=card&name=Watchwolf&options=" data-card="Watchwolf">Watchwolf</a> is very aggressivly costed, and <a class="mtg-card-link" rel="#mtg-card-popup" href="http://gatherer.wizards.com/Handlers/Image.ashx?size=small&type=card&name=Caregiver&options=" data-card="Caregiver">Caregiver</a> is bad. Also if I have nothing new to say since the last review I will leave it out here.</p>
 
 <!--more-->
@@ -421,9 +421,9 @@ This is the win condition in the terrible looking Fungus Fire decks. Other than 
   
   <entry>
     <title type="html"><![CDATA[Other People's Decks - Samurai]]></title>
-    <link href="http://www/spekkionu.com/2005/10/other-peoples-decks-samurai/"/>
+    <link href="http://www.spekkionu.com/2005/10/other-peoples-decks-samurai/"/>
     <updated>2005-10-17T17:43:09-07:00</updated>
-    <id>http://www/spekkionu.com/2005/10/other-peoples-decks-samurai</id>
+    <id>http://www.spekkionu.com/2005/10/other-peoples-decks-samurai</id>
     <content type="html"><![CDATA[<p>Here I&rsquo;ll be going over another forum deck.  This one will focus on a few different concepts than the last.</p>
 
 <!--more-->
@@ -525,9 +525,9 @@ This is the win condition in the terrible looking Fungus Fire decks. Other than 
   
   <entry>
     <title type="html"><![CDATA[Other People's Decks]]></title>
-    <link href="http://www/spekkionu.com/2005/10/other-peoples-decks/"/>
+    <link href="http://www.spekkionu.com/2005/10/other-peoples-decks/"/>
     <updated>2005-10-10T17:16:06-07:00</updated>
-    <id>http://www/spekkionu.com/2005/10/other-peoples-decks</id>
+    <id>http://www.spekkionu.com/2005/10/other-peoples-decks</id>
     <content type="html"><![CDATA[<p>I spend a bit of my spare time helping people out with their decks on the <a href="http://boards1.wizards.com/forumdisplay.php?s=&amp;forumid=156">Casual Boards at magicthegathering.com</a>.</p>
 
 <p>Most of what goes on there is one person posts a deck and other people give suggestions on how to improve it.  Helping on these boards has helped my deckbuilding skills tremendously and is what eventually inspired me to start writing Magic articles.  Today I will look at a few decks I randomly spotted on the forums and post them here and after likely making fun of them (since they will likely never see this) will go about improving them as I would have if I posted in the actual thread.  Partly this will help see how to improve your own decks (or other people&rsquo;s) and partly this will just show you how much better at Magic you are than the average casual player.</p>
@@ -597,9 +597,9 @@ This is the win condition in the terrible looking Fungus Fire decks. Other than 
   
   <entry>
     <title type="html"><![CDATA[Ravnica Set Review]]></title>
-    <link href="http://www/spekkionu.com/2005/09/ravnica-set-review/"/>
+    <link href="http://www.spekkionu.com/2005/09/ravnica-set-review/"/>
     <updated>2005-09-18T21:26:04-07:00</updated>
-    <id>http://www/spekkionu.com/2005/09/ravnica-set-review</id>
+    <id>http://www.spekkionu.com/2005/09/ravnica-set-review</id>
     <content type="html"><![CDATA[<p>In this article I&rsquo;ll be taking a look at the soon to be released Ravnica: City of Guilds set and touch on some of the cards I find to be either interesting or useful.  Also since I&rsquo;ve actually been doing pretty well at predicting some of the cards that eventually wind up expensive over the last few sets I&rsquo;ll be mentioning some of the cards I feel might go up in price after the set has been out a while.  I was able to buy my copies of <a class="mtg-card-link" rel="#mtg-card-popup" href="http://gatherer.wizards.com/Handlers/Image.ashx?size=small&type=card&name=Vedalken%20Shackles&options=" data-card="Vedalken Shackles">Vedalken Shackles</a> for $2.00 each and <a class="mtg-card-link" rel="#mtg-card-popup" href="http://gatherer.wizards.com/Handlers/Image.ashx?size=small&type=card&name=Beacon%20of%20Creation&options=" data-card="Beacon of Creation">Beacon of Creation</a> for $1 each while both cards are well over $5 now.  This can be helpful not only for not having to try and get the cards when they are so expensive but also the fact that you could possibly make a profit on them and sell them or trade them for other cards when they are worth much more than you paid for them.</p>
 
 <!--more-->
@@ -769,9 +769,9 @@ Here are the biggest things to come out of the set.  These are the best dual lan
   
   <entry>
     <title type="html"><![CDATA[Robo-Beats]]></title>
-    <link href="http://www/spekkionu.com/2005/08/robo-beats/"/>
+    <link href="http://www.spekkionu.com/2005/08/robo-beats/"/>
     <updated>2005-08-31T13:21:29-07:00</updated>
-    <id>http://www/spekkionu.com/2005/08/robo-beats</id>
+    <id>http://www.spekkionu.com/2005/08/robo-beats</id>
     <content type="html"><![CDATA[<p>Before I get started here I want to say that I&rsquo;m sure most of you have noticed a drop in quality of these articles over the past few months.  Just simply I ran out of ideas and forced myself to write those articles rather than have them be something I actually wanted to write.  That is almost a sure way to end up with something mediocre.  Because of this instead of writing an article every week I will be writing them whenever I feel like it.  It could be every other week or one a month but hopefully not less than that (I wont promise anything though).  If you pull the &ldquo;filler&rdquo; articles (like this week&rsquo;s) I&rsquo;m writing decent articles about that often anyway.  It will likely be that unless I have an idea for a theory article (which are my favorites) most of them will now be about how a specific format looks and/or building a deck for that format.  Maybe I&rsquo;ll do a casual deck article every once in a while since I certainly haven&rsquo;t stopped building crappy casual decks on Magic Workstation (phear <a class="mtg-card-link" rel="#mtg-card-popup" href="http://gatherer.wizards.com/Handlers/Image.ashx?size=small&type=card&name=Defense%20of%20the%20Heart&options=" data-card="Defense of the Heart">Defense of the Heart</a>.dec) but not too many since they are generally short and the deck are rarely actually good (though I could likely get most of them to work in our more causal metagame).</p>
 
 <p>Another casual deck for this week.  This time I&rsquo;m going to try my hand at mono-artifact beatdown.</p>
@@ -813,9 +813,9 @@ Here are the biggest things to come out of the set.  These are the best dual lan
   
   <entry>
     <title type="html"><![CDATA[Nationals 2005 Results]]></title>
-    <link href="http://www/spekkionu.com/2005/08/nationals-2005-results/"/>
+    <link href="http://www.spekkionu.com/2005/08/nationals-2005-results/"/>
     <updated>2005-08-24T13:41:28-07:00</updated>
-    <id>http://www/spekkionu.com/2005/08/nationals-2005-results</id>
+    <id>http://www.spekkionu.com/2005/08/nationals-2005-results</id>
     <content type="html"><![CDATA[<p>Now that it is over I&rsquo;ll be taking a look at the world&rsquo;s National&rsquo;s results (or at least the ones where Saviors was legal) to see how the Standard format ended up.  This is mostly as a review of what the format ended up being since 9th Edition is legal in the next large Standard tournament.</p>
 
 <!--more-->
@@ -1169,9 +1169,9 @@ Here are the biggest things to come out of the set.  These are the best dual lan
   
   <entry>
     <title type="html"><![CDATA[Magic Sites]]></title>
-    <link href="http://www/spekkionu.com/2005/08/magic-sites/"/>
+    <link href="http://www.spekkionu.com/2005/08/magic-sites/"/>
     <updated>2005-08-17T12:20:33-07:00</updated>
-    <id>http://www/spekkionu.com/2005/08/magic-sites</id>
+    <id>http://www.spekkionu.com/2005/08/magic-sites</id>
     <content type="html"><![CDATA[<p>This article will be about a few of the major magic sites out there.  I&rsquo;ll cover both past and present but will likely completely forget a few important ones because I either had never heard of them or because they just slipped my mind.</p>
 
 <!--more-->
@@ -1219,9 +1219,9 @@ Here are the biggest things to come out of the set.  These are the best dual lan
   
   <entry>
     <title type="html"><![CDATA[Delaying Shield]]></title>
-    <link href="http://www/spekkionu.com/2005/08/delaying-shield/"/>
+    <link href="http://www.spekkionu.com/2005/08/delaying-shield/"/>
     <updated>2005-08-10T13:04:23-07:00</updated>
-    <id>http://www/spekkionu.com/2005/08/delaying-shield</id>
+    <id>http://www.spekkionu.com/2005/08/delaying-shield</id>
     <content type="html"><![CDATA[<p>Time for another bad rare deckbuilding article.</p>
 
 <p>This time I&rsquo;m going for a card that I&rsquo;ve wanted to build a deck around since I first saw it in the spoiler.</p>
@@ -1271,9 +1271,9 @@ Here are the biggest things to come out of the set.  These are the best dual lan
   
   <entry>
     <title type="html"><![CDATA[My First Deck]]></title>
-    <link href="http://www/spekkionu.com/2005/08/my-first-deck/"/>
+    <link href="http://www.spekkionu.com/2005/08/my-first-deck/"/>
     <updated>2005-08-03T12:43:43-07:00</updated>
-    <id>http://www/spekkionu.com/2005/08/my-first-deck</id>
+    <id>http://www.spekkionu.com/2005/08/my-first-deck</id>
     <content type="html"><![CDATA[<p>The last few articles were all tournament related so I figured I should do something a bit more casual this time.</p>
 
 <p>Early in my magic youth I was heavily drawn to the color black.  I&rsquo;m not even sure exactly why.  I just knew it was color than the other colors.  My first deck I actually thought of as decent (by my standards then at least, it looks like a pile now) was a mono black deck.  It was an aggro control deck but not because I planned it that way.  I really just threw every black card I thought was cool into it and tried to trim it down as much as possible.  I don&rsquo;t remember exactly what was in it card for card but I remember it was 83 cards.</p>
@@ -1327,9 +1327,9 @@ Here are the biggest things to come out of the set.  These are the best dual lan
   
   <entry>
     <title type="html"><![CDATA[The Standard Metagame - Post 9th Edition]]></title>
-    <link href="http://www/spekkionu.com/2005/07/the-standard-metagame-after-the-rotation/"/>
+    <link href="http://www.spekkionu.com/2005/07/the-standard-metagame-after-the-rotation/"/>
     <updated>2005-07-27T12:57:33-07:00</updated>
-    <id>http://www/spekkionu.com/2005/07/the-standard-metagame-after-the-rotation</id>
+    <id>http://www.spekkionu.com/2005/07/the-standard-metagame-after-the-rotation</id>
     <content type="html"><![CDATA[<p>I just finished going over the Standard format as it looked at Regionals.  This format however is as good as gone though.  By the time the next large Standard tournament comes around 9th Edition will have rotated in and 8th will be gone.  This week I&rsquo;m going to look at what will leave and how that affects the decks out there then look at what new cards are coming in then I&rsquo;m going to build a new deck using 9th Edition (I wont make any promises as to whether is is good or not).</p>
 
 <!--more-->
@@ -1532,9 +1532,9 @@ With <a class="mtg-card-link" rel="#mtg-card-popup" href="http://gatherer.wizard
   
   <entry>
     <title type="html"><![CDATA[The Standard Metagame - the Lower Tiers]]></title>
-    <link href="http://www/spekkionu.com/2005/07/the-standard-metagame-the-lower-tiers/"/>
+    <link href="http://www.spekkionu.com/2005/07/the-standard-metagame-the-lower-tiers/"/>
     <updated>2005-07-20T14:04:14-07:00</updated>
-    <id>http://www/spekkionu.com/2005/07/the-standard-metagame-the-lower-tiers</id>
+    <id>http://www.spekkionu.com/2005/07/the-standard-metagame-the-lower-tiers</id>
     <content type="html"><![CDATA[<p>Last week I looked at the tier 1 decks of Standard.  This week I&rsquo;ll be looking at the lower tiers.</p>
 
 <!--more-->
@@ -1682,9 +1682,9 @@ With <a class="mtg-card-link" rel="#mtg-card-popup" href="http://gatherer.wizard
   
   <entry>
     <title type="html"><![CDATA[The Standard Metagame - Tier 1 Decks]]></title>
-    <link href="http://www/spekkionu.com/2005/07/the-standard-metagame-tier-1-decks/"/>
+    <link href="http://www.spekkionu.com/2005/07/the-standard-metagame-tier-1-decks/"/>
     <updated>2005-07-13T13:42:13-07:00</updated>
-    <id>http://www/spekkionu.com/2005/07/the-standard-metagame-tier-1-decks</id>
+    <id>http://www.spekkionu.com/2005/07/the-standard-metagame-tier-1-decks</id>
     <content type="html"><![CDATA[<p>For the next few articles I&rsquo;ll be looking at the Standard environment and what the top decks are as well as a few of the more roguish decks.</p>
 
 <!--more-->
@@ -1802,9 +1802,9 @@ With <a class="mtg-card-link" rel="#mtg-card-popup" href="http://gatherer.wizard
   
   <entry>
     <title type="html"><![CDATA[My Magic History]]></title>
-    <link href="http://www/spekkionu.com/2005/07/my-magic-history/"/>
+    <link href="http://www.spekkionu.com/2005/07/my-magic-history/"/>
     <updated>2005-07-06T13:42:05-07:00</updated>
-    <id>http://www/spekkionu.com/2005/07/my-magic-history</id>
+    <id>http://www.spekkionu.com/2005/07/my-magic-history</id>
     <content type="html"><![CDATA[<p>Its story time.  In this article I&rsquo;m going to go over my history as a magic player/deck builder and some of the most important decks I&rsquo;ve built.  I&rsquo;ll also include the times I think I did the most improvement over and maybe a few reasons why.</p>
 
 <!--more-->
@@ -1889,9 +1889,9 @@ With <a class="mtg-card-link" rel="#mtg-card-popup" href="http://gatherer.wizard
   
   <entry>
     <title type="html"><![CDATA[History of Mono Black Control]]></title>
-    <link href="http://www/spekkionu.com/2005/06/history-of-mono-black-control/"/>
+    <link href="http://www.spekkionu.com/2005/06/history-of-mono-black-control/"/>
     <updated>2005-06-29T12:52:27-07:00</updated>
-    <id>http://www/spekkionu.com/2005/06/history-of-mono-black-control</id>
+    <id>http://www.spekkionu.com/2005/06/history-of-mono-black-control</id>
     <content type="html"><![CDATA[<p>Last week I showed you my Kamigawa Block version of Mono Black Control.  This week I&rsquo;ll be going over the history of the archetype and a bunch of different versions from various formats.</p>
 
 <!--more-->
@@ -2017,9 +2017,9 @@ With <a class="mtg-card-link" rel="#mtg-card-popup" href="http://gatherer.wizard
   
   <entry>
     <title type="html"><![CDATA[Kamigawa Block Mono Black Control]]></title>
-    <link href="http://www/spekkionu.com/2005/06/standard-mono-black-control/"/>
+    <link href="http://www.spekkionu.com/2005/06/standard-mono-black-control/"/>
     <updated>2005-06-22T13:09:41-07:00</updated>
-    <id>http://www/spekkionu.com/2005/06/standard-mono-black-control</id>
+    <id>http://www.spekkionu.com/2005/06/standard-mono-black-control</id>
     <content type="html"><![CDATA[<p>In addition to free drafting the Saviors Beta on Magic Online provided me with the cards to play around with a few constructed formats.  I was never able to really make anything tournament worthy in Standard or Online Extended but I did manage to make a pretty decent Block Constructed deck.</p>
 
 <!--more-->
@@ -2158,9 +2158,9 @@ This card is amazing in other decks but not here.  This deck does not contain a 
   
   <entry>
     <title type="html"><![CDATA[Really Big Red]]></title>
-    <link href="http://www/spekkionu.com/2005/06/really-big-red/"/>
+    <link href="http://www.spekkionu.com/2005/06/really-big-red/"/>
     <updated>2005-06-15T15:09:37-07:00</updated>
-    <id>http://www/spekkionu.com/2005/06/really-big-red</id>
+    <id>http://www.spekkionu.com/2005/06/really-big-red</id>
     <content type="html"><![CDATA[<p>I can say without a doubt that this is the best multiplayer deck I have ever built.  It wins more often than not when I play it which actually is a much bigger feat in multiplayer.  For a duel deck you are doing fine if your win percentage is above 50%.  In multiplayer the more players there are the harder it is to win.  Really you just want your odds to be better than 1/n for a multiplayer game of n players.  This deck wins at least 60-70% of the time.  Better yet it isn&rsquo;t nearly as annoying to play against as a lot of my other multiplayer decks can be (<a class="mtg-card-link" rel="#mtg-card-popup" href="http://gatherer.wizards.com/Handlers/Image.ashx?size=small&type=card&name=Vedalken%20Shackles&options=" data-card="Vedalken Shackles">Vedalken Shackles</a> and <a class="mtg-card-link" rel="#mtg-card-popup" href="http://gatherer.wizards.com/Handlers/Image.ashx?size=small&type=card&name=Tradewind%20Rider&options=" data-card="Tradewind Rider">Tradewind Rider</a> are the first offenders that spring to mind though are not nearly all of them).  I think the reason it doesn&rsquo;t seem all that annoying is that when you really look at it, it really is just a bunch of mana and a big pile of burn.  Hell even some of the lands deal damage.</p>
 
 <p>I&rsquo;ve posted the deck before and talked briefly about it but this time I&rsquo;ll go through it card by card and discuss everything in detail.  I&rsquo;ll also cover cards that were either in the deck at one time or that might be good in the deck but I don&rsquo;t own.</p>
@@ -2260,9 +2260,9 @@ This card was in the deck a while but wasn&rsquo;t ever all that good.  In fact 
   
   <entry>
     <title type="html"><![CDATA[Red Deck Wins]]></title>
-    <link href="http://www/spekkionu.com/2005/06/red-deck-wins/"/>
+    <link href="http://www.spekkionu.com/2005/06/red-deck-wins/"/>
     <updated>2005-06-08T12:06:58-07:00</updated>
-    <id>http://www/spekkionu.com/2005/06/red-deck-wins</id>
+    <id>http://www.spekkionu.com/2005/06/red-deck-wins</id>
     <content type="html"><![CDATA[<p>Today&rsquo;s article is all about the red deck.  I&rsquo;ll go though the various different types of red decks and the differences between them.  I wont go into too much detail in the history because there is no way I could do a better job than <a href="http://www.wizards.com/default.asp?x=mtgcom/daily/mf39">Mike Flores</a>.  I suggest you give that article a read first.</p>
 
 <p>Probably the weirdest thing about the red decks is how people blindly label them all the same thing.  The common labels that get thrown around incorrectly are Sligh, Red Deck Wins, and Ponza.  Goblins is the other deck I&rsquo;ll cover but it tends to be a bit more obvious and doesn&rsquo;t get mislabeled like the others.</p>
@@ -2340,9 +2340,9 @@ This card was in the deck a while but wasn&rsquo;t ever all that good.  In fact 
   
   <entry>
     <title type="html"><![CDATA[Stompy]]></title>
-    <link href="http://www/spekkionu.com/2005/06/stompy/"/>
+    <link href="http://www.spekkionu.com/2005/06/stompy/"/>
     <updated>2005-06-01T12:36:49-07:00</updated>
-    <id>http://www/spekkionu.com/2005/06/stompy</id>
+    <id>http://www.spekkionu.com/2005/06/stompy</id>
     <content type="html"><![CDATA[<p>I&rsquo;ve wanted to talk about aggro decks for a while now but could never decide on which one. After Branden&rsquo;s request of discussing the Stompy deck I ran in Type 3 I figured this is a good a choice as any.</p>
 
 <p>There are essentially two ways to design and play an aggro deck without turning it into an aggro-control deck. The first is the all out weenie approach. You find the most aggressive creatures possible with the smallest mana curve possible. When playing the deck you go for the swarm and kill method. For an example of this strategy we are all very familiar with look at BJ&rsquo;s Elf deck. If left unchecked he can easily amass a very large army of elves and <a class="mtg-card-link" rel="#mtg-card-popup" href="http://gatherer.wizards.com/Handlers/Image.ashx?size=small&type=card&name=Overrun&options=" data-card="Overrun">Overrun</a> for the win by turn 5. The major weakness of this type of deck is that you are often one well-timed <a class="mtg-card-link" rel="#mtg-card-popup" href="http://gatherer.wizards.com/Handlers/Image.ashx?size=small&type=card&name=Pyroclasm&options=" data-card="Pyroclasm">Pyroclasm</a> away from defeat. If they turn your army of small dudes into 1-3 little dudes going in for the kill becomes more difficult. Examples of creatures you find in this type of deck include any good creature that costs 1-2 mana and has at least two power, one-drops especially (<a class="mtg-card-link" rel="#mtg-card-popup" href="http://gatherer.wizards.com/Handlers/Image.ashx?size=small&type=card&name=Savannah%20Lions&options=" data-card="Savannah Lions">Savannah Lions</a>, <a class="mtg-card-link" rel="#mtg-card-popup" href="http://gatherer.wizards.com/Handlers/Image.ashx?size=small&type=card&name=Jackal%20Pup&options=" data-card="Jackal Pup">Jackal Pup</a>, <a class="mtg-card-link" rel="#mtg-card-popup" href="http://gatherer.wizards.com/Handlers/Image.ashx?size=small&type=card&name=Jungle%20Lion&options=" data-card="Jungle Lion">Jungle Lion</a>, <a class="mtg-card-link" rel="#mtg-card-popup" href="http://gatherer.wizards.com/Handlers/Image.ashx?size=small&type=card&name=Carnophage&options=" data-card="Carnophage">Carnophage</a>).</p>

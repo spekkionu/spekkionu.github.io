@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: Standard | Spekkionu's MTG Blog]]></title>
-  <link href="http://www/spekkionu.com/categories/standard/atom.xml" rel="self"/>
-  <link href="http://www/spekkionu.com/"/>
-  <updated>2014-07-23T00:45:52-07:00</updated>
-  <id>http://www/spekkionu.com/</id>
+  <link href="http://www.spekkionu.com/categories/standard/atom.xml" rel="self"/>
+  <link href="http://www.spekkionu.com/"/>
+  <updated>2014-07-23T00:55:41-07:00</updated>
+  <id>http://www.spekkionu.com/</id>
   <author>
     <name><![CDATA[Jonathan Bernardi]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Robo-Beats]]></title>
-    <link href="http://www/spekkionu.com/2005/08/robo-beats/"/>
+    <link href="http://www.spekkionu.com/2005/08/robo-beats/"/>
     <updated>2005-08-31T13:21:29-07:00</updated>
-    <id>http://www/spekkionu.com/2005/08/robo-beats</id>
+    <id>http://www.spekkionu.com/2005/08/robo-beats</id>
     <content type="html"><![CDATA[<p>Before I get started here I want to say that I&rsquo;m sure most of you have noticed a drop in quality of these articles over the past few months.  Just simply I ran out of ideas and forced myself to write those articles rather than have them be something I actually wanted to write.  That is almost a sure way to end up with something mediocre.  Because of this instead of writing an article every week I will be writing them whenever I feel like it.  It could be every other week or one a month but hopefully not less than that (I wont promise anything though).  If you pull the &ldquo;filler&rdquo; articles (like this week&rsquo;s) I&rsquo;m writing decent articles about that often anyway.  It will likely be that unless I have an idea for a theory article (which are my favorites) most of them will now be about how a specific format looks and/or building a deck for that format.  Maybe I&rsquo;ll do a casual deck article every once in a while since I certainly haven&rsquo;t stopped building crappy casual decks on Magic Workstation (phear <a class="mtg-card-link" rel="#mtg-card-popup" href="http://gatherer.wizards.com/Handlers/Image.ashx?size=small&type=card&name=Defense%20of%20the%20Heart&options=" data-card="Defense of the Heart">Defense of the Heart</a>.dec) but not too many since they are generally short and the deck are rarely actually good (though I could likely get most of them to work in our more causal metagame).</p>
 
 <p>Another casual deck for this week.  This time I&rsquo;m going to try my hand at mono-artifact beatdown.</p>
@@ -57,9 +57,9 @@
   
   <entry>
     <title type="html"><![CDATA[Nationals 2005 Results]]></title>
-    <link href="http://www/spekkionu.com/2005/08/nationals-2005-results/"/>
+    <link href="http://www.spekkionu.com/2005/08/nationals-2005-results/"/>
     <updated>2005-08-24T13:41:28-07:00</updated>
-    <id>http://www/spekkionu.com/2005/08/nationals-2005-results</id>
+    <id>http://www.spekkionu.com/2005/08/nationals-2005-results</id>
     <content type="html"><![CDATA[<p>Now that it is over I&rsquo;ll be taking a look at the world&rsquo;s National&rsquo;s results (or at least the ones where Saviors was legal) to see how the Standard format ended up.  This is mostly as a review of what the format ended up being since 9th Edition is legal in the next large Standard tournament.</p>
 
 <!--more-->
@@ -413,9 +413,9 @@
   
   <entry>
     <title type="html"><![CDATA[My First Deck]]></title>
-    <link href="http://www/spekkionu.com/2005/08/my-first-deck/"/>
+    <link href="http://www.spekkionu.com/2005/08/my-first-deck/"/>
     <updated>2005-08-03T12:43:43-07:00</updated>
-    <id>http://www/spekkionu.com/2005/08/my-first-deck</id>
+    <id>http://www.spekkionu.com/2005/08/my-first-deck</id>
     <content type="html"><![CDATA[<p>The last few articles were all tournament related so I figured I should do something a bit more casual this time.</p>
 
 <p>Early in my magic youth I was heavily drawn to the color black.  I&rsquo;m not even sure exactly why.  I just knew it was color than the other colors.  My first deck I actually thought of as decent (by my standards then at least, it looks like a pile now) was a mono black deck.  It was an aggro control deck but not because I planned it that way.  I really just threw every black card I thought was cool into it and tried to trim it down as much as possible.  I don&rsquo;t remember exactly what was in it card for card but I remember it was 83 cards.</p>
@@ -465,9 +465,9 @@
   
   <entry>
     <title type="html"><![CDATA[The Standard Metagame - Post 9th Edition]]></title>
-    <link href="http://www/spekkionu.com/2005/07/the-standard-metagame-after-the-rotation/"/>
+    <link href="http://www.spekkionu.com/2005/07/the-standard-metagame-after-the-rotation/"/>
     <updated>2005-07-27T12:57:33-07:00</updated>
-    <id>http://www/spekkionu.com/2005/07/the-standard-metagame-after-the-rotation</id>
+    <id>http://www.spekkionu.com/2005/07/the-standard-metagame-after-the-rotation</id>
     <content type="html"><![CDATA[<p>I just finished going over the Standard format as it looked at Regionals.  This format however is as good as gone though.  By the time the next large Standard tournament comes around 9th Edition will have rotated in and 8th will be gone.  This week I&rsquo;m going to look at what will leave and how that affects the decks out there then look at what new cards are coming in then I&rsquo;m going to build a new deck using 9th Edition (I wont make any promises as to whether is is good or not).</p>
 
 <!--more-->
@@ -665,9 +665,9 @@ With <a class="mtg-card-link" rel="#mtg-card-popup" href="http://gatherer.wizard
   
   <entry>
     <title type="html"><![CDATA[The Standard Metagame - the Lower Tiers]]></title>
-    <link href="http://www/spekkionu.com/2005/07/the-standard-metagame-the-lower-tiers/"/>
+    <link href="http://www.spekkionu.com/2005/07/the-standard-metagame-the-lower-tiers/"/>
     <updated>2005-07-20T14:04:14-07:00</updated>
-    <id>http://www/spekkionu.com/2005/07/the-standard-metagame-the-lower-tiers</id>
+    <id>http://www.spekkionu.com/2005/07/the-standard-metagame-the-lower-tiers</id>
     <content type="html"><![CDATA[<p>Last week I looked at the tier 1 decks of Standard.  This week I&rsquo;ll be looking at the lower tiers.</p>
 
 <!--more-->

@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: Constructed | Spekkionu's MTG Blog]]></title>
-  <link href="http://www/spekkionu.com/categories/constructed/atom.xml" rel="self"/>
-  <link href="http://www/spekkionu.com/"/>
-  <updated>2014-07-23T00:45:52-07:00</updated>
-  <id>http://www/spekkionu.com/</id>
+  <link href="http://www.spekkionu.com/categories/constructed/atom.xml" rel="self"/>
+  <link href="http://www.spekkionu.com/"/>
+  <updated>2014-07-23T00:55:41-07:00</updated>
+  <id>http://www.spekkionu.com/</id>
   <author>
     <name><![CDATA[Jonathan Bernardi]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Magic Workstation Guide]]></title>
-    <link href="http://www/spekkionu.com/2006/06/magic-workstation-guide/"/>
+    <link href="http://www.spekkionu.com/2006/06/magic-workstation-guide/"/>
     <updated>2006-06-22T16:31:41-07:00</updated>
-    <id>http://www/spekkionu.com/2006/06/magic-workstation-guide</id>
+    <id>http://www.spekkionu.com/2006/06/magic-workstation-guide</id>
     <content type="html"><![CDATA[<p>As I&rsquo;ve mentioned many times before I use <a href="http://www.magicworkstation.com/">Magic Workstation</a> for my deck building and testing.  Jason mentioned that a guide on how to use this program would make for a helpful article.  This article will assume you already have the program installed and set up with all the proper sets and images.  It will focus more on the actual use of the program.</p>
 
 <!--more-->
@@ -133,9 +133,9 @@
   
   <entry>
     <title type="html"><![CDATA[Peasant Magic]]></title>
-    <link href="http://www/spekkionu.com/2006/06/peasant-magic/"/>
+    <link href="http://www.spekkionu.com/2006/06/peasant-magic/"/>
     <updated>2006-06-17T16:30:58-07:00</updated>
-    <id>http://www/spekkionu.com/2006/06/peasant-magic</id>
+    <id>http://www.spekkionu.com/2006/06/peasant-magic</id>
     <content type="html"><![CDATA[<p>Working on this site has brought back the itch to write Magic articles. However I had no idea what to write about. After a week or two with no ideas Dustin planned out a small Peasant Magic tournament. Since I haven&rsquo;t done a tournament report before this seemed like the perfect opportunity.</p>
 
 <!--more-->
@@ -251,9 +251,9 @@
   
   <entry>
     <title type="html"><![CDATA[Other People's Decks - Samurai]]></title>
-    <link href="http://www/spekkionu.com/2005/10/other-peoples-decks-samurai/"/>
+    <link href="http://www.spekkionu.com/2005/10/other-peoples-decks-samurai/"/>
     <updated>2005-10-17T17:43:09-07:00</updated>
-    <id>http://www/spekkionu.com/2005/10/other-peoples-decks-samurai</id>
+    <id>http://www.spekkionu.com/2005/10/other-peoples-decks-samurai</id>
     <content type="html"><![CDATA[<p>Here I&rsquo;ll be going over another forum deck.  This one will focus on a few different concepts than the last.</p>
 
 <!--more-->
@@ -350,9 +350,9 @@
   
   <entry>
     <title type="html"><![CDATA[Other People's Decks]]></title>
-    <link href="http://www/spekkionu.com/2005/10/other-peoples-decks/"/>
+    <link href="http://www.spekkionu.com/2005/10/other-peoples-decks/"/>
     <updated>2005-10-10T17:16:06-07:00</updated>
-    <id>http://www/spekkionu.com/2005/10/other-peoples-decks</id>
+    <id>http://www.spekkionu.com/2005/10/other-peoples-decks</id>
     <content type="html"><![CDATA[<p>I spend a bit of my spare time helping people out with their decks on the <a href="http://boards1.wizards.com/forumdisplay.php?s=&amp;forumid=156">Casual Boards at magicthegathering.com</a>.</p>
 
 <p>Most of what goes on there is one person posts a deck and other people give suggestions on how to improve it.  Helping on these boards has helped my deckbuilding skills tremendously and is what eventually inspired me to start writing Magic articles.  Today I will look at a few decks I randomly spotted on the forums and post them here and after likely making fun of them (since they will likely never see this) will go about improving them as I would have if I posted in the actual thread.  Partly this will help see how to improve your own decks (or other people&rsquo;s) and partly this will just show you how much better at Magic you are than the average casual player.</p>
@@ -418,9 +418,9 @@
   
   <entry>
     <title type="html"><![CDATA[Robo-Beats]]></title>
-    <link href="http://www/spekkionu.com/2005/08/robo-beats/"/>
+    <link href="http://www.spekkionu.com/2005/08/robo-beats/"/>
     <updated>2005-08-31T13:21:29-07:00</updated>
-    <id>http://www/spekkionu.com/2005/08/robo-beats</id>
+    <id>http://www.spekkionu.com/2005/08/robo-beats</id>
     <content type="html"><![CDATA[<p>Before I get started here I want to say that I&rsquo;m sure most of you have noticed a drop in quality of these articles over the past few months.  Just simply I ran out of ideas and forced myself to write those articles rather than have them be something I actually wanted to write.  That is almost a sure way to end up with something mediocre.  Because of this instead of writing an article every week I will be writing them whenever I feel like it.  It could be every other week or one a month but hopefully not less than that (I wont promise anything though).  If you pull the &ldquo;filler&rdquo; articles (like this week&rsquo;s) I&rsquo;m writing decent articles about that often anyway.  It will likely be that unless I have an idea for a theory article (which are my favorites) most of them will now be about how a specific format looks and/or building a deck for that format.  Maybe I&rsquo;ll do a casual deck article every once in a while since I certainly haven&rsquo;t stopped building crappy casual decks on Magic Workstation (phear <a class="mtg-card-link" rel="#mtg-card-popup" href="http://gatherer.wizards.com/Handlers/Image.ashx?size=small&type=card&name=Defense%20of%20the%20Heart&options=" data-card="Defense of the Heart">Defense of the Heart</a>.dec) but not too many since they are generally short and the deck are rarely actually good (though I could likely get most of them to work in our more causal metagame).</p>
 
 <p>Another casual deck for this week.  This time I&rsquo;m going to try my hand at mono-artifact beatdown.</p>

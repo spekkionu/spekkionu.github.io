@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: Extended | Spekkionu's MTG Blog]]></title>
-  <link href="http://www/spekkionu.com/categories/extended/atom.xml" rel="self"/>
-  <link href="http://www/spekkionu.com/"/>
-  <updated>2014-07-23T00:45:52-07:00</updated>
-  <id>http://www/spekkionu.com/</id>
+  <link href="http://www.spekkionu.com/categories/extended/atom.xml" rel="self"/>
+  <link href="http://www.spekkionu.com/"/>
+  <updated>2014-07-23T00:55:41-07:00</updated>
+  <id>http://www.spekkionu.com/</id>
   <author>
     <name><![CDATA[Jonathan Bernardi]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Delaying Shield]]></title>
-    <link href="http://www/spekkionu.com/2005/08/delaying-shield/"/>
+    <link href="http://www.spekkionu.com/2005/08/delaying-shield/"/>
     <updated>2005-08-10T13:04:23-07:00</updated>
-    <id>http://www/spekkionu.com/2005/08/delaying-shield</id>
+    <id>http://www.spekkionu.com/2005/08/delaying-shield</id>
     <content type="html"><![CDATA[<p>Time for another bad rare deckbuilding article.</p>
 
 <p>This time I&rsquo;m going for a card that I&rsquo;ve wanted to build a deck around since I first saw it in the spoiler.</p>

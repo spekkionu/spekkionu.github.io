@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: Competitive | Spekkionu's MTG Blog]]></title>
-  <link href="http://www/spekkionu.com/categories/competitive/atom.xml" rel="self"/>
-  <link href="http://www/spekkionu.com/"/>
-  <updated>2014-07-23T00:45:52-07:00</updated>
-  <id>http://www/spekkionu.com/</id>
+  <link href="http://www.spekkionu.com/categories/competitive/atom.xml" rel="self"/>
+  <link href="http://www.spekkionu.com/"/>
+  <updated>2014-07-23T00:55:41-07:00</updated>
+  <id>http://www.spekkionu.com/</id>
   <author>
     <name><![CDATA[Jonathan Bernardi]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Nationals 2005 Results]]></title>
-    <link href="http://www/spekkionu.com/2005/08/nationals-2005-results/"/>
+    <link href="http://www.spekkionu.com/2005/08/nationals-2005-results/"/>
     <updated>2005-08-24T13:41:28-07:00</updated>
-    <id>http://www/spekkionu.com/2005/08/nationals-2005-results</id>
+    <id>http://www.spekkionu.com/2005/08/nationals-2005-results</id>
     <content type="html"><![CDATA[<p>Now that it is over I&rsquo;ll be taking a look at the world&rsquo;s National&rsquo;s results (or at least the ones where Saviors was legal) to see how the Standard format ended up.  This is mostly as a review of what the format ended up being since 9th Edition is legal in the next large Standard tournament.</p>
 
 <!--more-->
@@ -371,9 +371,9 @@
   
   <entry>
     <title type="html"><![CDATA[The Standard Metagame - Post 9th Edition]]></title>
-    <link href="http://www/spekkionu.com/2005/07/the-standard-metagame-after-the-rotation/"/>
+    <link href="http://www.spekkionu.com/2005/07/the-standard-metagame-after-the-rotation/"/>
     <updated>2005-07-27T12:57:33-07:00</updated>
-    <id>http://www/spekkionu.com/2005/07/the-standard-metagame-after-the-rotation</id>
+    <id>http://www.spekkionu.com/2005/07/the-standard-metagame-after-the-rotation</id>
     <content type="html"><![CDATA[<p>I just finished going over the Standard format as it looked at Regionals.  This format however is as good as gone though.  By the time the next large Standard tournament comes around 9th Edition will have rotated in and 8th will be gone.  This week I&rsquo;m going to look at what will leave and how that affects the decks out there then look at what new cards are coming in then I&rsquo;m going to build a new deck using 9th Edition (I wont make any promises as to whether is is good or not).</p>
 
 <!--more-->
@@ -571,9 +571,9 @@ With <a class="mtg-card-link" rel="#mtg-card-popup" href="http://gatherer.wizard
   
   <entry>
     <title type="html"><![CDATA[The Standard Metagame - the Lower Tiers]]></title>
-    <link href="http://www/spekkionu.com/2005/07/the-standard-metagame-the-lower-tiers/"/>
+    <link href="http://www.spekkionu.com/2005/07/the-standard-metagame-the-lower-tiers/"/>
     <updated>2005-07-20T14:04:14-07:00</updated>
-    <id>http://www/spekkionu.com/2005/07/the-standard-metagame-the-lower-tiers</id>
+    <id>http://www.spekkionu.com/2005/07/the-standard-metagame-the-lower-tiers</id>
     <content type="html"><![CDATA[<p>Last week I looked at the tier 1 decks of Standard.  This week I&rsquo;ll be looking at the lower tiers.</p>
 
 <!--more-->
@@ -712,9 +712,9 @@ With <a class="mtg-card-link" rel="#mtg-card-popup" href="http://gatherer.wizard
   
   <entry>
     <title type="html"><![CDATA[The Standard Metagame - Tier 1 Decks]]></title>
-    <link href="http://www/spekkionu.com/2005/07/the-standard-metagame-tier-1-decks/"/>
+    <link href="http://www.spekkionu.com/2005/07/the-standard-metagame-tier-1-decks/"/>
     <updated>2005-07-13T13:42:13-07:00</updated>
-    <id>http://www/spekkionu.com/2005/07/the-standard-metagame-tier-1-decks</id>
+    <id>http://www.spekkionu.com/2005/07/the-standard-metagame-tier-1-decks</id>
     <content type="html"><![CDATA[<p>For the next few articles I&rsquo;ll be looking at the Standard environment and what the top decks are as well as a few of the more roguish decks.</p>
 
 <!--more-->
@@ -826,9 +826,9 @@ With <a class="mtg-card-link" rel="#mtg-card-popup" href="http://gatherer.wizard
   
   <entry>
     <title type="html"><![CDATA[Red Deck Wins]]></title>
-    <link href="http://www/spekkionu.com/2005/06/red-deck-wins/"/>
+    <link href="http://www.spekkionu.com/2005/06/red-deck-wins/"/>
     <updated>2005-06-08T12:06:58-07:00</updated>
-    <id>http://www/spekkionu.com/2005/06/red-deck-wins</id>
+    <id>http://www.spekkionu.com/2005/06/red-deck-wins</id>
     <content type="html"><![CDATA[<p>Today&rsquo;s article is all about the red deck.  I&rsquo;ll go though the various different types of red decks and the differences between them.  I wont go into too much detail in the history because there is no way I could do a better job than <a href="http://www.wizards.com/default.asp?x=mtgcom/daily/mf39">Mike Flores</a>.  I suggest you give that article a read first.</p>
 
 <p>Probably the weirdest thing about the red decks is how people blindly label them all the same thing.  The common labels that get thrown around incorrectly are Sligh, Red Deck Wins, and Ponza.  Goblins is the other deck I&rsquo;ll cover but it tends to be a bit more obvious and doesn&rsquo;t get mislabeled like the others.</p>

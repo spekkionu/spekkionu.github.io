@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: Theory | Spekkionu's MTG Blog]]></title>
-  <link href="http://www/spekkionu.com/categories/theory/atom.xml" rel="self"/>
-  <link href="http://www/spekkionu.com/"/>
-  <updated>2014-07-23T00:45:52-07:00</updated>
-  <id>http://www/spekkionu.com/</id>
+  <link href="http://www.spekkionu.com/categories/theory/atom.xml" rel="self"/>
+  <link href="http://www.spekkionu.com/"/>
+  <updated>2014-07-23T00:55:41-07:00</updated>
+  <id>http://www.spekkionu.com/</id>
   <author>
     <name><![CDATA[Jonathan Bernardi]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Magic Workstation Guide]]></title>
-    <link href="http://www/spekkionu.com/2006/06/magic-workstation-guide/"/>
+    <link href="http://www.spekkionu.com/2006/06/magic-workstation-guide/"/>
     <updated>2006-06-22T16:31:41-07:00</updated>
-    <id>http://www/spekkionu.com/2006/06/magic-workstation-guide</id>
+    <id>http://www.spekkionu.com/2006/06/magic-workstation-guide</id>
     <content type="html"><![CDATA[<p>As I&rsquo;ve mentioned many times before I use <a href="http://www.magicworkstation.com/">Magic Workstation</a> for my deck building and testing.  Jason mentioned that a guide on how to use this program would make for a helpful article.  This article will assume you already have the program installed and set up with all the proper sets and images.  It will focus more on the actual use of the program.</p>
 
 <!--more-->
@@ -133,9 +133,9 @@
   
   <entry>
     <title type="html"><![CDATA[Ravnica Sleepers]]></title>
-    <link href="http://www/spekkionu.com/2005/11/ravnica-sleepers/"/>
+    <link href="http://www.spekkionu.com/2005/11/ravnica-sleepers/"/>
     <updated>2005-11-04T15:23:05-07:00</updated>
-    <id>http://www/spekkionu.com/2005/11/ravnica-sleepers</id>
+    <id>http://www.spekkionu.com/2005/11/ravnica-sleepers</id>
     <content type="html"><![CDATA[<p>A while ago I posted a set review of sorts for Ravnica. This is a bit of a follow up. Now that the set has been out a while I have more data to work with as far as experience playing with the cards goes. I also think I&rsquo;ve figured out what a few of the set&rsquo;s sleepers are. Once again I&rsquo;ll be ignoring insignificant or limited only cards and very obvious cards. You don&rsquo;t need me to tell you that <a class="mtg-card-link" rel="#mtg-card-popup" href="http://gatherer.wizards.com/Handlers/Image.ashx?size=small&type=card&name=Birds%20of%20Paradise&options=" data-card="Birds of Paradise">Birds of Paradise</a> is good, <a class="mtg-card-link" rel="#mtg-card-popup" href="http://gatherer.wizards.com/Handlers/Image.ashx?size=small&type=card&name=Watchwolf&options=" data-card="Watchwolf">Watchwolf</a> is very aggressivly costed, and <a class="mtg-card-link" rel="#mtg-card-popup" href="http://gatherer.wizards.com/Handlers/Image.ashx?size=small&type=card&name=Caregiver&options=" data-card="Caregiver">Caregiver</a> is bad. Also if I have nothing new to say since the last review I will leave it out here.</p>
 
 <!--more-->
@@ -298,9 +298,9 @@ This is the win condition in the terrible looking Fungus Fire decks. Other than 
   
   <entry>
     <title type="html"><![CDATA[Card Advantage in Multiplayer]]></title>
-    <link href="http://www/spekkionu.com/2005/05/card-advantage-in-multiplayer/"/>
+    <link href="http://www.spekkionu.com/2005/05/card-advantage-in-multiplayer/"/>
     <updated>2005-05-18T14:42:46-07:00</updated>
-    <id>http://www/spekkionu.com/2005/05/card-advantage-in-multiplayer</id>
+    <id>http://www.spekkionu.com/2005/05/card-advantage-in-multiplayer</id>
     <content type="html"><![CDATA[<p>Card advantage can be a little different in multiplayer than in a duel.  Look at the most common way of determining card advantage in a duel, counting cards.  If player A plays a <a class="mtg-card-link" rel="#mtg-card-popup" href="http://gatherer.wizards.com/Handlers/Image.ashx?size=small&type=card&name=Terror&options=" data-card="Terror">Terror</a> on one of player B&rsquo;s two <a class="mtg-card-link" rel="#mtg-card-popup" href="http://gatherer.wizards.com/Handlers/Image.ashx?size=small&type=card&name=Serra%20Angel&options=" data-card="Serra Angel">Serra Angels</a> he traded his one card for his opponent&rsquo;s one card and did not create card advantage or disadvantage (this is called maintaining card parity).  If Player A had instead played <a class="mtg-card-link" rel="#mtg-card-popup" href="http://gatherer.wizards.com/Handlers/Image.ashx?size=small&type=card&name=Wrath%20of%20God&options=" data-card="Wrath of God">Wrath of God</a> and killed both <a class="mtg-card-link" rel="#mtg-card-popup" href="http://gatherer.wizards.com/Handlers/Image.ashx?size=small&type=card&name=Serra%20Angel&options=" data-card="Serra Angel">Serra Angels</a> he traded one card for his opponent&rsquo;s two cards.  This is a card advantage of +1.  Similarly if player B then plays <a class="mtg-card-link" rel="#mtg-card-popup" href="http://gatherer.wizards.com/Handlers/Image.ashx?size=small&type=card&name=Concentrate&options=" data-card="Concentrate">Concentrate</a> he trades his one card for three new cards gaining a card advantage of +2.  What we are doing is comparing the amount of cards lost/gained by each player.</p>
 
 <p>How does this counting method work in lets say a 3 player game?  In the first example where player B&rsquo;s <a class="mtg-card-link" rel="#mtg-card-popup" href="http://gatherer.wizards.com/Handlers/Image.ashx?size=small&type=card&name=Serra%20Angel&options=" data-card="Serra Angel">Serra Angel</a> is killed by player A&rsquo;s <a class="mtg-card-link" rel="#mtg-card-popup" href="http://gatherer.wizards.com/Handlers/Image.ashx?size=small&type=card&name=Terror&options=" data-card="Terror">Terror</a>.  Player A still maintains card parity with player B but what does it look like from the perspective of player C?  Player A used one card to deal with one card of player B&rsquo;s.  This means from player C&rsquo;s point of view two of his opponent&rsquo;s cards were dealt with without using any of his own.  This is easily an example of card advantage.  He got a +1 card advantage relative with player A and +1 relative to player B.  If you go back to player A&rsquo;s point of view he ended up with card parity with player B and -1 card advantage with player B (or +1 card disadvantage).</p>
@@ -341,9 +341,9 @@ This is the win condition in the terrible looking Fungus Fire decks. Other than 
   
   <entry>
     <title type="html"><![CDATA[Multiplayer Strategies]]></title>
-    <link href="http://www/spekkionu.com/2005/05/multiplayer-strategies/"/>
+    <link href="http://www.spekkionu.com/2005/05/multiplayer-strategies/"/>
     <updated>2005-05-11T14:06:52-07:00</updated>
-    <id>http://www/spekkionu.com/2005/05/multiplayer-strategies</id>
+    <id>http://www.spekkionu.com/2005/05/multiplayer-strategies</id>
     <content type="html"><![CDATA[<p>Often strategies that work in duels are quite terrible in multiplayer.  Something like a red land destruction deck stands no chance at all against multiple opponents since there will never be enough <a class="mtg-card-link" rel="#mtg-card-popup" href="http://gatherer.wizards.com/Handlers/Image.ashx?size=small&type=card&name=Stone%20Rain&options=" data-card="Stone Rain">Stone Rains</a> to keep everyone hurting for mana.  There are also strategies that are terrible in duels but gain a lot of power in multiplayer. This article will go over some strategies of each type as well as some general multiplayer strategy and deckbuilding advice.</p>
 
 <!--more-->
@@ -421,9 +421,9 @@ Along the lines of <a class="mtg-card-link" rel="#mtg-card-popup" href="http://g
   
   <entry>
     <title type="html"><![CDATA[Building a Control Deck]]></title>
-    <link href="http://www/spekkionu.com/2005/04/building-a-control-deck/"/>
+    <link href="http://www.spekkionu.com/2005/04/building-a-control-deck/"/>
     <updated>2005-04-27T16:13:58-07:00</updated>
-    <id>http://www/spekkionu.com/2005/04/building-a-control-deck</id>
+    <id>http://www.spekkionu.com/2005/04/building-a-control-deck</id>
     <content type="html"><![CDATA[<p>This article will cover how to build a blue-based control deck, how to play it, and also how to play against one.  The examples will not only include Mono Blue Control but a couple of other blue heavy control decks as well.  Control decks form a very large and important part of our metagame so I feel it is important to understand them even if you don&rsquo;t want to actually build one.</p>
 
 <!--more-->
