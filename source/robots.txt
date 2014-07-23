@@ -1,0 +1,8 @@
+---
+layout: nil
+---
+User-agent: *
+Disallow: search.html
+Disallow: atom_search.xml
+
+Sitemap: {{ site.url }}/sitemap.xml

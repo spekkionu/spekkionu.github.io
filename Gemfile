@@ -14,6 +14,13 @@ group :development do
   gem 'rubypants', '~> 0.2.0'
   gem 'rb-fsevent', '~> 0.9'
   gem 'stringex', '~> 1.4.0'
+  gem 'htmlentities', '~> 4.3.2'
+  gem 'breakpoint', '~> 2.0.7'
+end
+
+require 'rbconfig'
+if RbConfig::CONFIG['target_os'] =~ /mswin|mingw|cygwin/i
+  gem 'wdm', '>= 0.1.0'
 end
 
 gem 'sinatra', '~> 1.4.2'

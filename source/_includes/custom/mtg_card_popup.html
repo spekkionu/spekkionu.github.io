@@ -1,0 +1,39 @@
+<div id="mtg-card-popup-wrapper">
+    <div id="mtg-card-popup"></div>
+</div>
+<script src="{{ root_url }}/javascripts/jquery-cluetip-1.2.10/jquery.cluetip.min.js"></script>
+<script>
+    $( document ).ready(function() {
+        $('.mtg-card-link').cluetip({
+            width: 245,
+            sticky: false,
+            positionBy: 'auto',
+            attribute: 'rel',
+            local: true,
+            hideLocal: true,
+            arrows: true,
+            showTitle: false,
+            cluetipClass: 'default',
+            waitImage: true,
+            dropShadow: false,
+            activation: 'hover',
+            mouseOutClose: true,
+            closePosition: 'top',
+            closeText: '&times;',
+            clickThrough: false,
+            onActivate: function(e) {
+                var $image = $('#mtg-card-popup-image');
+                if(!$image.length){
+                    $image = $('<img id="mtg-card-popup-image">');
+                    $('#mtg-card-popup').html($image);
+                }
+                $('#mtg-card-popup-image').attr('src', $(this).attr('href'));
+                $('#mtg-card-popup-image').attr('alt', $(this).data('card'));
+                return true;
+            }
+        });
+        $( "#mtg-card-popup" ).click(function( e ) {
+            $(document).trigger('hideCluetip');
+        });
+    });
+</script>
