@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: Type 3 | Spekkionu's MTG Blog]]></title>
-  <link href="http://spekkionu.github.io/categories/type-3/atom.xml" rel="self"/>
-  <link href="http://spekkionu.github.io/"/>
-  <updated>2014-07-22T23:52:46-07:00</updated>
-  <id>http://spekkionu.github.io/</id>
+  <link href="http://www/spekkionu.com/categories/type-3/atom.xml" rel="self"/>
+  <link href="http://www/spekkionu.com/"/>
+  <updated>2014-07-22T23:59:22-07:00</updated>
+  <id>http://www/spekkionu.com/</id>
   <author>
     <name><![CDATA[Jonathan Bernardi]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Stompy]]></title>
-    <link href="http://spekkionu.github.io/2005/06/stompy/"/>
+    <link href="http://www/spekkionu.com/2005/06/stompy/"/>
     <updated>2005-06-01T12:36:49-07:00</updated>
-    <id>http://spekkionu.github.io/2005/06/stompy</id>
+    <id>http://www/spekkionu.com/2005/06/stompy</id>
     <content type="html"><![CDATA[<p>I&rsquo;ve wanted to talk about aggro decks for a while now but could never decide on which one. After Branden&rsquo;s request of discussing the Stompy deck I ran in Type 3 I figured this is a good a choice as any.</p>
 
 <p>There are essentially two ways to design and play an aggro deck without turning it into an aggro-control deck. The first is the all out weenie approach. You find the most aggressive creatures possible with the smallest mana curve possible. When playing the deck you go for the swarm and kill method. For an example of this strategy we are all very familiar with look at BJ&rsquo;s Elf deck. If left unchecked he can easily amass a very large army of elves and <a class="mtg-card-link" rel="#mtg-card-popup" href="http://gatherer.wizards.com/Handlers/Image.ashx?size=small&type=card&name=Overrun&options=" data-card="Overrun">Overrun</a> for the win by turn 5. The major weakness of this type of deck is that you are often one well-timed <a class="mtg-card-link" rel="#mtg-card-popup" href="http://gatherer.wizards.com/Handlers/Image.ashx?size=small&type=card&name=Pyroclasm&options=" data-card="Pyroclasm">Pyroclasm</a> away from defeat. If they turn your army of small dudes into 1-3 little dudes going in for the kill becomes more difficult. Examples of creatures you find in this type of deck include any good creature that costs 1-2 mana and has at least two power, one-drops especially (<a class="mtg-card-link" rel="#mtg-card-popup" href="http://gatherer.wizards.com/Handlers/Image.ashx?size=small&type=card&name=Savannah%20Lions&options=" data-card="Savannah Lions">Savannah Lions</a>, <a class="mtg-card-link" rel="#mtg-card-popup" href="http://gatherer.wizards.com/Handlers/Image.ashx?size=small&type=card&name=Jackal%20Pup&options=" data-card="Jackal Pup">Jackal Pup</a>, <a class="mtg-card-link" rel="#mtg-card-popup" href="http://gatherer.wizards.com/Handlers/Image.ashx?size=small&type=card&name=Jungle%20Lion&options=" data-card="Jungle Lion">Jungle Lion</a>, <a class="mtg-card-link" rel="#mtg-card-popup" href="http://gatherer.wizards.com/Handlers/Image.ashx?size=small&type=card&name=Carnophage&options=" data-card="Carnophage">Carnophage</a>).</p>
@@ -160,9 +160,9 @@ Not really all that bad but not even close to the power of <a class="mtg-card-li
   
   <entry>
     <title type="html"><![CDATA[Why Type 3?]]></title>
-    <link href="http://spekkionu.github.io/2005/03/why-type-3/"/>
+    <link href="http://www/spekkionu.com/2005/03/why-type-3/"/>
     <updated>2005-03-23T14:39:07-07:00</updated>
-    <id>http://spekkionu.github.io/2005/03/why-type-3</id>
+    <id>http://www/spekkionu.com/2005/03/why-type-3</id>
     <content type="html"><![CDATA[<p>As you all know by now the Type 3 format has two distinctive features.  One is that the maximum number of each card you can run is 3 instead of 4.  The other is that we control the banned/restricted list.  I&rsquo;m going to take a look at the type 3 format and discuss exactly what that 3-card limit means.  Then I&rsquo;m going to look at the types of decks most effected by the format.</p>
 
 <!-- more -->
@@ -226,9 +226,9 @@ Not really all that bad but not even close to the power of <a class="mtg-card-li
   
   <entry>
     <title type="html"><![CDATA[Playtesting]]></title>
-    <link href="http://spekkionu.github.io/2005/03/playtesting/"/>
+    <link href="http://www/spekkionu.com/2005/03/playtesting/"/>
     <updated>2005-03-10T15:14:05-08:00</updated>
-    <id>http://spekkionu.github.io/2005/03/playtesting</id>
+    <id>http://www/spekkionu.com/2005/03/playtesting</id>
     <content type="html"><![CDATA[<p>Since my personal preference is also Wednesday and no one else really had a preference I&rsquo;ll be throwing up a new article every Wednesday starting next week.  For this one I wanted to wait at least a week mostly just to give people time to read some of those articles.  Some were in fact quite lengthy and I know everyone isn&rsquo;t as crazy as I am and would read them all in one sitting, especially some of the ones that were slightly above your head (they were at least slightly above my head).  I wanted to get that first post out of the way at the beginning because I felt as though it was the perfect place to start.  It isn&rsquo;t like I&rsquo;ll ever be able to come up with any new ideas that totally redefine how people think about magic.  I&rsquo;d be lucky to come up with ideas that redefine my own thoughts about magic.</p>
 
 <!-- more -->

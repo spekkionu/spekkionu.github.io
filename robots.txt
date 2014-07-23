@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://spekkionu.github.io/sitemap.xml 
+Sitemap: http://www/spekkionu.com/sitemap.xml 

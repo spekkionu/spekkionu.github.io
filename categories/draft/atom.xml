@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: Draft | Spekkionu's MTG Blog]]></title>
-  <link href="http://spekkionu.github.io/categories/draft/atom.xml" rel="self"/>
-  <link href="http://spekkionu.github.io/"/>
-  <updated>2014-07-22T23:52:46-07:00</updated>
-  <id>http://spekkionu.github.io/</id>
+  <link href="http://www/spekkionu.com/categories/draft/atom.xml" rel="self"/>
+  <link href="http://www/spekkionu.com/"/>
+  <updated>2014-07-22T23:59:22-07:00</updated>
+  <id>http://www/spekkionu.com/</id>
   <author>
     <name><![CDATA[Jonathan Bernardi]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[LIMITED PUDD]]></title>
-    <link href="http://spekkionu.github.io/2005/05/limited-pudd/"/>
+    <link href="http://www/spekkionu.com/2005/05/limited-pudd/"/>
     <updated>2005-05-20T15:01:55-07:00</updated>
-    <id>http://spekkionu.github.io/2005/05/limited-pudd</id>
+    <id>http://www/spekkionu.com/2005/05/limited-pudd</id>
     <content type="html"><![CDATA[<p>Jon&rsquo;s been doing everyone a favor and writing about all matters of constructed-related things and I can say for everyone here that it&rsquo;s been exceedingly educational. But Jon hasn&rsquo;t touched on a format that I can safely consider my area of expertise.</p>
 
 <p>I am, of course, talking about limited. You know: draft and/or sealed. Specifically I&rsquo;m going to touch on the more common of the two in this article: draft. Most of us rarely if ever play sealed. Truthfully, the two formats may be under the same banner, but they&rsquo;re vastly different.</p>

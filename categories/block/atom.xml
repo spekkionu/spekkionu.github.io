@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: Block | Spekkionu's MTG Blog]]></title>
-  <link href="http://spekkionu.github.io/categories/block/atom.xml" rel="self"/>
-  <link href="http://spekkionu.github.io/"/>
-  <updated>2014-07-22T23:52:46-07:00</updated>
-  <id>http://spekkionu.github.io/</id>
+  <link href="http://www/spekkionu.com/categories/block/atom.xml" rel="self"/>
+  <link href="http://www/spekkionu.com/"/>
+  <updated>2014-07-22T23:59:22-07:00</updated>
+  <id>http://www/spekkionu.com/</id>
   <author>
     <name><![CDATA[Jonathan Bernardi]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Kamigawa Block Mono Black Control]]></title>
-    <link href="http://spekkionu.github.io/2005/06/standard-mono-black-control/"/>
+    <link href="http://www/spekkionu.com/2005/06/standard-mono-black-control/"/>
     <updated>2005-06-22T13:09:41-07:00</updated>
-    <id>http://spekkionu.github.io/2005/06/standard-mono-black-control</id>
+    <id>http://www/spekkionu.com/2005/06/standard-mono-black-control</id>
     <content type="html"><![CDATA[<p>In addition to free drafting the Saviors Beta on Magic Online provided me with the cards to play around with a few constructed formats.  I was never able to really make anything tournament worthy in Standard or Online Extended but I did manage to make a pretty decent Block Constructed deck.</p>
 
 <!--more-->
