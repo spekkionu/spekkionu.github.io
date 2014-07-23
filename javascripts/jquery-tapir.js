@@ -18,7 +18,6 @@
       if (!settings.token || settings.query_param == '') {
         return this;
       }
-
       $.ajax({
         url: 'http://tapirgo.com/api/1/search.json',
         dataType: "jsonp",
@@ -31,7 +30,8 @@
                 settings.complete()
             }
             $.each(data, function(key, val) {
-                el.append('<div class="result"><h3><a href="' + val.link + '">' + val.title + '</a></h3><p>' + val.summary + '</p></div>');
+                var published = moment(val.published_on);
+                el.append('<h2>' + published.format('YYYY') + '</h2><article><h1><a href="' + val.link + '">' + val.title + '</a></h1><time datetime="' + val.published_on + '" pubdate><span class="month">' + published.format('MMM') + '</span> <span class="day">'+published.format('DD')+'</span> <span class="year">' + published.format('YYYY') + '</span></time><footer>' + val.summary + '</footer></article>');
             });
         }
       });
