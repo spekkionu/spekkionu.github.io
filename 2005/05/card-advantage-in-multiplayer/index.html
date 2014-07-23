@@ -1,0 +1,356 @@
+
+<!DOCTYPE html>
+<!--[if IEMobile 7 ]><html class="no-js iem7"><![endif]-->
+<!--[if lt IE 9]><html class="no-js lte-ie8"><![endif]-->
+<!--[if (gt IE 8)|(gt IEMobile 7)|!(IEMobile)|!(IE)]><!--><html class="no-js" lang="en"><!--<![endif]-->
+<head>
+  <meta charset="utf-8">
+  <title>Card Advantage in Multiplayer - Spekkionu's MTG Blog</title>
+  <meta name="author" content="Jonathan Bernardi">
+
+  
+  <meta name="description" content="Card advantage can be a little different in multiplayer than in a duel. Look at the most common way of determining card advantage in a duel, counting &hellip;">
+  
+
+  <!-- http://t.co/dKP3o1e -->
+  <meta name="HandheldFriendly" content="True">
+  <meta name="MobileOptimized" content="320">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  
+  <link rel="canonical" href="http://www.spekkionu.com/2005/05/card-advantage-in-multiplayer">
+  <link href="/favicon.ico" rel="icon">
+  <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
+  <link href="/atom.xml" rel="alternate" title="Spekkionu's MTG Blog" type="application/atom+xml">
+  <script src="/javascripts/modernizr-2.0.js"></script>
+  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+  <script>!window.jQuery && document.write(unescape('%3Cscript src="./javascripts/libs/jquery.min.js"%3E%3C/script%3E'))</script>
+  <script src="/javascripts/octopress.js" type="text/javascript"></script>
+  <!--Fonts from Google"s Web font directory at http://google.com/webfonts -->
+<link href="//fonts.googleapis.com/css?family=PT+Serif:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
+<link href="//fonts.googleapis.com/css?family=PT+Sans:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
+<script src="/javascripts/monthly_archive.js"></script>
+</head>
+
+<body   >
+  <header role="banner"><hgroup>
+  <h1><a href="/">Spekkionu's MTG Blog</a></h1>
+  
+    <h2>Articles and decklists</h2>
+  
+</hgroup>
+
+</header>
+  <nav role="navigation"><ul class="subscription" data-subscription="rss">
+  <li><a href="/atom.xml" rel="subscribe-rss" title="subscribe via RSS">RSS</a></li>
+  
+</ul>
+  
+<form action="https://www.google.com/search" method="get">
+  <fieldset role="search">
+    <input type="hidden" name="q" value="site:www.spekkionu.com" />
+    <input class="search" type="text" name="q" results="0" placeholder="Search"/>
+  </fieldset>
+</form>
+  
+<ul class="main-navigation">
+  <li><a href="/">Blog</a></li>
+  <li><a href="/blog/archives">Archives</a></li>
+</ul>
+
+</nav>
+  <div id="main">
+    <div id="content">
+      <div>
+<article class="hentry" role="article">
+  
+  <header>
+    
+      <h1 class="entry-title">Card Advantage in Multiplayer</h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2005-05-18T14:42:46-07:00" pubdate data-updated="true">May 18<sup>th</sup>, 2005</time>
+        
+           | <a href="#disqus_thread"
+             data-disqus-identifier="http://www.spekkionu.com">Comments</a>
+        
+      </p>
+    
+  </header>
+
+
+<div class="entry-content"><p>Card advantage can be a little different in multiplayer than in a duel.  Look at the most common way of determining card advantage in a duel, counting cards.  If player A plays a <a class="mtg-card-link" rel="#mtg-card-popup" href="http://gatherer.wizards.com/Handlers/Image.ashx?size=small&type=card&name=Terror&options=" data-card="Terror">Terror</a> on one of player B&rsquo;s two <a class="mtg-card-link" rel="#mtg-card-popup" href="http://gatherer.wizards.com/Handlers/Image.ashx?size=small&type=card&name=Serra%20Angel&options=" data-card="Serra Angel">Serra Angels</a> he traded his one card for his opponent&rsquo;s one card and did not create card advantage or disadvantage (this is called maintaining card parity).  If Player A had instead played <a class="mtg-card-link" rel="#mtg-card-popup" href="http://gatherer.wizards.com/Handlers/Image.ashx?size=small&type=card&name=Wrath%20of%20God&options=" data-card="Wrath of God">Wrath of God</a> and killed both <a class="mtg-card-link" rel="#mtg-card-popup" href="http://gatherer.wizards.com/Handlers/Image.ashx?size=small&type=card&name=Serra%20Angel&options=" data-card="Serra Angel">Serra Angels</a> he traded one card for his opponent&rsquo;s two cards.  This is a card advantage of +1.  Similarly if player B then plays <a class="mtg-card-link" rel="#mtg-card-popup" href="http://gatherer.wizards.com/Handlers/Image.ashx?size=small&type=card&name=Concentrate&options=" data-card="Concentrate">Concentrate</a> he trades his one card for three new cards gaining a card advantage of +2.  What we are doing is comparing the amount of cards lost/gained by each player.</p>
+
+<p>How does this counting method work in lets say a 3 player game?  In the first example where player B&rsquo;s <a class="mtg-card-link" rel="#mtg-card-popup" href="http://gatherer.wizards.com/Handlers/Image.ashx?size=small&type=card&name=Serra%20Angel&options=" data-card="Serra Angel">Serra Angel</a> is killed by player A&rsquo;s <a class="mtg-card-link" rel="#mtg-card-popup" href="http://gatherer.wizards.com/Handlers/Image.ashx?size=small&type=card&name=Terror&options=" data-card="Terror">Terror</a>.  Player A still maintains card parity with player B but what does it look like from the perspective of player C?  Player A used one card to deal with one card of player B&rsquo;s.  This means from player C&rsquo;s point of view two of his opponent&rsquo;s cards were dealt with without using any of his own.  This is easily an example of card advantage.  He got a +1 card advantage relative with player A and +1 relative to player B.  If you go back to player A&rsquo;s point of view he ended up with card parity with player B and -1 card advantage with player B (or +1 card disadvantage).</p>
+
+<p>So a one for one trade results in an overall card disadvantage but what about the second example where player A Wraths away player B&rsquo;s two Angels?  Player A&rsquo;s card advantage relative to player B is still +1 but what about to player C?  It would be -1 because player A used one card and did not deal with any of player C&rsquo;s cards.  Could you consider that player A ended up with card parity (since -1 + 1 = 0)?  He still used one card to deal with two so that can&rsquo;t be the answer but clearly this trade still benefits player C who just saw 3 cards go away without expending any of his own (+1 relative to player A and +2 relative to player B).  I don&rsquo;t think there is necessarily a clear cut easy way to count card advantage in multiplayer as there is in a duel.  Since every interaction happens differently from each player&rsquo;s point of view you can either look at it relative to each player or as a whole from a neutral position.  Which is the correct way?  I don&rsquo;t think either is either correct or incorrect which makes it not so easy to determine.  At the very least it is something interesting to think about that I haven&rsquo;t seen being discussed elsewhere.</p>
+
+<p>So what does any of this matter and how can you take advantage of it?  Well one thing that should be very clear is that the best place to be in in player C&rsquo;s seat.  If you can get your opponent&rsquo;s to deal with each other&rsquo;s threats it can mean nothing but massive card advantage for you.  So what types of cards will encourage your opponents to deal with each other&rsquo;s threats?  Generally since you can&rsquo;t control what your opponents are playing you will have to provide them with the means to do it.  This generally means some type of symmetrical card.  I believe I have recently found a good one.</p>
+
+<!--more-->
+
+
+<p>I want to start by showing you this brief part of a conversation I had with Dustin.</p>
+
+<blockquote><p><strong>Me:</strong> I made a <a class="mtg-card-link" rel="#mtg-card-popup" href="http://gatherer.wizards.com/Handlers/Image.ashx?size=small&type=card&name=Death%20Match&options=" data-card="Death Match">Death Match</a> deck.<br/>
+<strong>Dustin:</strong> You are bad at Magic.</p></blockquote>
+
+<p>Those were his exact words when I told him I built a deck around <a class="mtg-card-link" rel="#mtg-card-popup" href="http://gatherer.wizards.com/Handlers/Image.ashx?size=small&type=card&name=Death%20Match&options=" data-card="Death Match">Death Match</a>.  I think by now I&rsquo;ve proved to Dustin and everyone else that <a class="mtg-card-link" rel="#mtg-card-popup" href="http://gatherer.wizards.com/Handlers/Image.ashx?size=small&type=card&name=Death%20Match&options=" data-card="Death Match">Death Match</a> is indeed a good card in multiplayer but let&rsquo;s look at why.</p>
+
+<p>In my deck especially playing against creature heavy decks <a class="mtg-card-link" rel="#mtg-card-popup" href="http://gatherer.wizards.com/Handlers/Image.ashx?size=small&type=card&name=Death%20Match&options=" data-card="Death Match">Death Match</a> is a card advantage machine.  Like any good player knows a good symmetrical card is never actually symmetrical.  The biggest example will always be <a class="mtg-card-link" rel="#mtg-card-popup" href="http://gatherer.wizards.com/Handlers/Image.ashx?size=small&type=card&name=Balance&options=" data-card="Balance">Balance</a>.  This card just oozes symmetry flavor-wise but in actual use is often one of the most one-sided cards in existence.  You will just not play it unless it will benefit you.  Now breaking the symmetry on <a class="mtg-card-link" rel="#mtg-card-popup" href="http://gatherer.wizards.com/Handlers/Image.ashx?size=small&type=card&name=Death%20Match&options=" data-card="Death Match">Death Match</a> is not as easy as <a class="mtg-card-link" rel="#mtg-card-popup" href="http://gatherer.wizards.com/Handlers/Image.ashx?size=small&type=card&name=Balance&options=" data-card="Balance">Balance</a> but still not too hard.  First you want to be able to use it.  This means running a lot of creatures.  But you don&rsquo;t want your opponent to be able to use it better than you (which if they are playing something like Elves would be easy for them to do).  This means three things.  First you want to run creatures that you don&rsquo;t care if someone tries to kill.  I went with creatures like <a class="mtg-card-link" rel="#mtg-card-popup" href="http://gatherer.wizards.com/Handlers/Image.ashx?size=small&type=card&name=Sakura-Tribe%20Elder&options=" data-card="Sakura-Tribe Elder">Sakura-Tribe Elder</a> and <a class="mtg-card-link" rel="#mtg-card-popup" href="http://gatherer.wizards.com/Handlers/Image.ashx?size=small&type=card&name=Solemn%20Simulacrum&options=" data-card="Solemn Simulacrum">Solemn Simulacrum</a>.  Second you need win conditions that are unaffected by the <a class="mtg-card-link" rel="#mtg-card-popup" href="http://gatherer.wizards.com/Handlers/Image.ashx?size=small&type=card&name=Death%20Match&options=" data-card="Death Match">Death Match</a>.  This either means spells or creatures it can&rsquo;t deal with.  This means creatures that are untargetable or have protection from black.  I found <a class="mtg-card-link" rel="#mtg-card-popup" href="http://gatherer.wizards.com/Handlers/Image.ashx?size=small&type=card&name=Gigapede&options=" data-card="Gigapede">Gigapede</a> to be the perfect choice here. but any untargetable fatty is fine.  <a class="mtg-card-link" rel="#mtg-card-popup" href="http://gatherer.wizards.com/Handlers/Image.ashx?size=small&type=card&name=Kodama%20of%20the%20North%20Tree&options=" data-card="Kodama of the North Tree">Kodama of the North Tree</a> or <a class="mtg-card-link" rel="#mtg-card-popup" href="http://gatherer.wizards.com/Handlers/Image.ashx?size=small&type=card&name=Multani,%20Maro-Sorcerer&options=" data-card="Multani, Maro-Sorcerer">Multani</a> are also great or you can go with <a class="mtg-card-link" rel="#mtg-card-popup" href="http://gatherer.wizards.com/Handlers/Image.ashx?size=small&type=card&name=Fireball&options=" data-card="Fireball">Fireball</a> or <a class="mtg-card-link" rel="#mtg-card-popup" href="http://gatherer.wizards.com/Handlers/Image.ashx?size=small&type=card&name=Consume%20Spirit&options=" data-card="Consume Spirit">Consume Spirit</a> or something.  Third you likely want to really be able to abuse the <a class="mtg-card-link" rel="#mtg-card-popup" href="http://gatherer.wizards.com/Handlers/Image.ashx?size=small&type=card&name=Death%20Match&options=" data-card="Death Match">Death Match</a>.  I went with <a class="mtg-card-link" rel="#mtg-card-popup" href="http://gatherer.wizards.com/Handlers/Image.ashx?size=small&type=card&name=Deranged%20Hermit&options=" data-card="Deranged Hermit">Deranged Hermit</a> and <a class="mtg-card-link" rel="#mtg-card-popup" href="http://gatherer.wizards.com/Handlers/Image.ashx?size=small&type=card&name=Squirrel%20Nest&options=" data-card="Squirrel Nest">Squirrel Nest</a>.  Any creature token producer would do fine here from <a class="mtg-card-link" rel="#mtg-card-popup" href="http://gatherer.wizards.com/Handlers/Image.ashx?size=small&type=card&name=Centaur%20Glade&options=" data-card="Centaur Glade">Centaur Glade</a> to <a class="mtg-card-link" rel="#mtg-card-popup" href="http://gatherer.wizards.com/Handlers/Image.ashx?size=small&type=card&name=Mobilization&options=" data-card="Mobilization">Mobilization</a>.  I do find it interesting that in my deck <a class="mtg-card-link" rel="#mtg-card-popup" href="http://gatherer.wizards.com/Handlers/Image.ashx?size=small&type=card&name=Deranged%20Hermit&options=" data-card="Deranged Hermit">Deranged Hermit</a> is more of a mass removal spell than a win condition (the tokens are generally gone in 1-2 turns).  The rest of the deck is really just utility (hopefully in creature form to keep the count high). The end result is that you rarely have anything worth targeting with the <a class="mtg-card-link" rel="#mtg-card-popup" href="http://gatherer.wizards.com/Handlers/Image.ashx?size=small&type=card&name=Death%20Match&options=" data-card="Death Match">Death Match</a> trigger but have plenty to trigger it with yourself.  When an opponent casts a creature he will more likely want to get rid of the other opponent&rsquo;s 3/3 than one of your 1/1 squirrel tokens.  When your opponent&rsquo;s have killed enough of each others creatures you should be far enough ahead that taking control of the game wont be too hard.  The thing I like most about <a class="mtg-card-link" rel="#mtg-card-popup" href="http://gatherer.wizards.com/Handlers/Image.ashx?size=small&type=card&name=Death%20Match&options=" data-card="Death Match">Death Match</a> isn&rsquo;t that it is good though.  It is that it can be a fun card from any side of the table.  It provides interaction which makes a game much more enjoyable regardless of who is winning.  I hope I didn&rsquo;t kill my deck by explaining it too much.</p>
+
+<p>Some other types of cards that can provide this type of interaction are cards like the <a class="mtg-card-link" rel="#mtg-card-popup" href="http://gatherer.wizards.com/Handlers/Image.ashx?size=small&type=card&name=Wishmonger&options=" data-card="Wishmonger">mongers</a> from Masques.  Anyone can activate them and if you build your deck around one of them it should benefit you most and cause your opponents you use it against each other.  Cards like <a class="mtg-card-link" rel="#mtg-card-popup" href="http://gatherer.wizards.com/Handlers/Image.ashx?size=small&type=card&name=Fecundity&options=" data-card="Fecundity">Fecundity</a>, <a class="mtg-card-link" rel="#mtg-card-popup" href="http://gatherer.wizards.com/Handlers/Image.ashx?size=small&type=card&name=Cowardice&options=" data-card="Cowardice">Cowardice</a> and <a class="mtg-card-link" rel="#mtg-card-popup" href="http://gatherer.wizards.com/Handlers/Image.ashx?size=small&type=card&name=Death%20Pits%20of%20Rath&options=" data-card="Death Pits of Rath">Death Pits of Rath</a> also fit into this category.  Also there are also cards like <a class="mtg-card-link" rel="#mtg-card-popup" href="http://gatherer.wizards.com/Handlers/Image.ashx?size=small&type=card&name=Mana%20Flare&options=" data-card="Mana Flare">Mana Flare</a>, <a class="mtg-card-link" rel="#mtg-card-popup" href="http://gatherer.wizards.com/Handlers/Image.ashx?size=small&type=card&name=Furnace%20of%20Rath&options=" data-card="Furnace of Rath">Furnace of Rath</a>, and <a class="mtg-card-link" rel="#mtg-card-popup" href="http://gatherer.wizards.com/Handlers/Image.ashx?size=small&type=card&name=Infernal%20Genesis&options=" data-card="Infernal Genesis">Infernal Genesis</a> that are close to this type of card but are much harder to make sure that it benefits you more than your opponent.  These can be just as fun but also are much more dangerous and will cause you to lose as often as win you the game, if not even more so (like Dustin and <a class="mtg-card-link" rel="#mtg-card-popup" href="http://gatherer.wizards.com/Handlers/Image.ashx?size=small&type=card&name=Infernal%20Genesis&options=" data-card="Infernal Genesis">Infernal Genesis</a>).</p>
+
+<p>Getting back to more traditional card advantage I want to discuss how a multiplayer control deck must be different to one made for duels.</p>
+
+<p>In general a good control deck made for a duel plans to trade cards one for one with the opponent and use either card drawing or mass removal to gain enough card advantage to overwhelm the opponent.  We have already learned that in multiplayer there is no such thing as a one-for-one trade so this traditional strategy isn&rsquo;t possible (this is why permission decks suck in multiplayer).  We have already gone over the method of trying to make other players provide your card advantage by dealing with each others cards but what about dealing with them yourself?  They key is to pack as much card advantage as possible into your deck.  I&rsquo;m talking more than would be needed for a duel.  While something like 8 <a class="mtg-card-link" rel="#mtg-card-popup" href="http://gatherer.wizards.com/Handlers/Image.ashx?size=small&type=card&name=Wrath%20of%20God&options=" data-card="Wrath of God">Wrath effects</a> would be almost overkill in a Mono White Control deck built for a duel in a large multiplayer game you want more like 10-12.  In order to have enough card advantage to win you need to have enough to be ahead of all other players.  Lets look at what I think my most successful multiplayer deck I&rsquo;ve ever built looks like:</p>
+
+<div class="mtg-card-deck"><h3 class="mtg-card-deck-title">Really Big Red</h3><div class="mtg-card-deck-content">
+<div class="mtg-card-list"><h4>Lands (24)</h4><ul><li><span class="mtg-card-list-quantity">1</span> <a class="mtg-card-link" rel="#mtg-card-popup" href="http://gatherer.wizards.com/Handlers/Image.ashx?size=small&type=card&name=Shivan%20Gorge&options=" data-card="Shivan Gorge">Shivan Gorge</a></li><li><span class="mtg-card-list-quantity">4</span> <a class="mtg-card-link" rel="#mtg-card-popup" href="http://gatherer.wizards.com/Handlers/Image.ashx?size=small&type=card&name=Temple%20of%20the%20False%20God&options=" data-card="Temple of the False God">Temple of the False God</a></li><li><span class="mtg-card-list-quantity">4</span> <a class="mtg-card-link" rel="#mtg-card-popup" href="http://gatherer.wizards.com/Handlers/Image.ashx?size=small&type=card&name=Ghitu%20Encampment&options=" data-card="Ghitu Encampment">Ghitu Encampment</a></li><li><span class="mtg-card-list-quantity">15</span> <a class="mtg-card-link" rel="#mtg-card-popup" href="http://gatherer.wizards.com/Handlers/Image.ashx?size=small&type=card&name=Mountain&options=" data-card="Mountain">Mountain</a></li></ul></div>
+<div class="mtg-card-list"><h4>Creatures (21)</h4><ul><li><span class="mtg-card-list-quantity">4</span> <a class="mtg-card-link" rel="#mtg-card-popup" href="http://gatherer.wizards.com/Handlers/Image.ashx?size=small&type=card&name=Crater%20Hellion&options=" data-card="Crater Hellion">Crater Hellion</a></li><li><span class="mtg-card-list-quantity">4</span> <a class="mtg-card-link" rel="#mtg-card-popup" href="http://gatherer.wizards.com/Handlers/Image.ashx?size=small&type=card&name=Flametongue%20Kavu&options=" data-card="Flametongue Kavu">Flametongue Kavu</a></li><li><span class="mtg-card-list-quantity">4</span> <a class="mtg-card-link" rel="#mtg-card-popup" href="http://gatherer.wizards.com/Handlers/Image.ashx?size=small&type=card&name=Arc-Slogger&options=" data-card="Arc-Slogger">Arc-Slogger</a></li><li><span class="mtg-card-list-quantity">4</span> <a class="mtg-card-link" rel="#mtg-card-popup" href="http://gatherer.wizards.com/Handlers/Image.ashx?size=small&type=card&name=Viashino%20Heretic&options=" data-card="Viashino Heretic">Viashino Heretic</a></li><li><span class="mtg-card-list-quantity">1</span> <a class="mtg-card-link" rel="#mtg-card-popup" href="http://gatherer.wizards.com/Handlers/Image.ashx?size=small&type=card&name=Tahngarth,%20Talruum%20Hero&options=" data-card="Tahngarth, Talruum Hero">Tahngarth, Talruum Hero</a></li><li><span class="mtg-card-list-quantity">4</span> <a class="mtg-card-link" rel="#mtg-card-popup" href="http://gatherer.wizards.com/Handlers/Image.ashx?size=small&type=card&name=Shivan%20Hellkite&options=" data-card="Shivan Hellkite">Shivan Hellkite</a></li></ul></div>
+<div class="mtg-card-list"><h4>Spells (15)</h4><ul><li><span class="mtg-card-list-quantity">4</span> <a class="mtg-card-link" rel="#mtg-card-popup" href="http://gatherer.wizards.com/Handlers/Image.ashx?size=small&type=card&name=Seal%20of%20Fire&options=" data-card="Seal of Fire">Seal of Fire</a></li><li><span class="mtg-card-list-quantity">4</span> <a class="mtg-card-link" rel="#mtg-card-popup" href="http://gatherer.wizards.com/Handlers/Image.ashx?size=small&type=card&name=Starstorm&options=" data-card="Starstorm">Starstorm</a></li><li><span class="mtg-card-list-quantity">4</span> <a class="mtg-card-link" rel="#mtg-card-popup" href="http://gatherer.wizards.com/Handlers/Image.ashx?size=small&type=card&name=Violent%20Eruption&options=" data-card="Violent Eruption">Violent Eruption</a></li><li><span class="mtg-card-list-quantity">3</span> <a class="mtg-card-link" rel="#mtg-card-popup" href="http://gatherer.wizards.com/Handlers/Image.ashx?size=small&type=card&name=Rolling%20Thunder&options=" data-card="Rolling Thunder">Rolling Thunder</a></li></ul></div>
+</div></div>
+
+
+<p>This is what I think is the optimal build of the deck (subject to change).  Another land might be nice but I&rsquo;m not sure what I&rsquo;d pull (probably a Heretic).</p>
+
+<p>Look at the non-land cards in the deck.  How many of them can provide card advantage?  Every one of them but <a class="mtg-card-link" rel="#mtg-card-popup" href="http://gatherer.wizards.com/Handlers/Image.ashx?size=small&type=card&name=Seal%20of%20Fire&options=" data-card="Seal of Fire">Seal of Fire</a> can provide you with card advantage.  Even that one can provide virtual card advantage by holding off a few small attackers.  Earlier versions of the deck were based more on getting huge amounts of mana with card like <a class="mtg-card-link" rel="#mtg-card-popup" href="http://gatherer.wizards.com/Handlers/Image.ashx?size=small&type=card&name=Seething%20Song&options=" data-card="Seething Song">Seething Song</a>, <a class="mtg-card-link" rel="#mtg-card-popup" href="http://gatherer.wizards.com/Handlers/Image.ashx?size=small&type=card&name=Gilded%20Lotus&options=" data-card="Gilded Lotus">Gilded Lotus</a>, and <a class="mtg-card-link" rel="#mtg-card-popup" href="http://gatherer.wizards.com/Handlers/Image.ashx?size=small&type=card&name=Thawing%20Glaciers&options=" data-card="Thawing Glaciers">Thawing Glaciers</a> to power out huge spells.  I slowly ended up weeding out the mana producers one by one for more card advantage.  I haven&rsquo;t missed them yet but the deck hasn&rsquo;t had much testing since <a class="mtg-card-link" rel="#mtg-card-popup" href="http://gatherer.wizards.com/Handlers/Image.ashx?size=small&type=card&name=Gilded%20Lotus&options=" data-card="Gilded Lotus">Gilded Lotus</a> and <a class="mtg-card-link" rel="#mtg-card-popup" href="http://gatherer.wizards.com/Handlers/Image.ashx?size=small&type=card&name=Seething%20Song&options=" data-card="Seething Song">Seething Song</a> left.  I had noticed while Seething Song was great for a turn three <a class="mtg-card-link" rel="#mtg-card-popup" href="http://gatherer.wizards.com/Handlers/Image.ashx?size=small&type=card&name=Gilded%20Lotus&options=" data-card="Gilded Lotus">Gilded Lotus</a> or <a class="mtg-card-link" rel="#mtg-card-popup" href="http://gatherer.wizards.com/Handlers/Image.ashx?size=small&type=card&name=Arc-Slogger&options=" data-card="Arc-Slogger">Arc-Slogger</a> it was generally the card I least wanted to see at any other time.  After those went I decided that <a class="mtg-card-link" rel="#mtg-card-popup" href="http://gatherer.wizards.com/Handlers/Image.ashx?size=small&type=card&name=Gilded%20Lotus&options=" data-card="Gilded Lotus">Gilded Lotus</a> was now too slow as by turn 4-5 I&rsquo;d rather be playing threats and answers than getting more mana.  It hasn&rsquo;t been a problem yet but the deck likely has a higher chance of being mana screwed without them.</p>
+</div>
+
+
+  <footer>
+    <p class="meta">
+      
+  
+
+<span class="byline author vcard">Posted by <span class="fn">Jonathan Bernardi</span></span>
+
+      
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2005-05-18T14:42:46-07:00" pubdate data-updated="true">May 18<sup>th</sup>, 2005</time>
+      
+
+<span class="categories">
+  
+    <a class='category' href='/categories/constructed/'>constructed</a>, <a class='category' href='/categories/theory/'>theory</a>
+  
+</span>
+
+
+    </p>
+    
+      <div class="sharing">
+  
+  <a href="//twitter.com/share" class="twitter-share-button" data-url="http://www.spekkionu.com/2005/05/card-advantage-in-multiplayer/" data-via="spekkionu" data-counturl="http://www.spekkionu.com/2005/05/card-advantage-in-multiplayer/" >Tweet</a>
+  
+  
+  <div class="g-plusone" data-size="medium"></div>
+  
+  
+    <div class="fb-like" data-send="true" data-width="450" data-show-faces="false"></div>
+  
+</div>
+
+    
+    <p class="meta">
+      
+        <a class="basic-alignment left" href="/2005/05/multiplayer-strategies/" title="Previous Post: Multiplayer Strategies">&laquo; Multiplayer Strategies</a>
+      
+      
+        <a class="basic-alignment right" href="/2005/05/limited-pudd/" title="Next Post: LIMITED PUDD">LIMITED PUDD &raquo;</a>
+      
+    </p>
+  </footer>
+</article>
+
+  <section>
+    <h1>Comments</h1>
+    <div id="disqus_thread" aria-live="polite"><noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+</div>
+  </section>
+
+</div>
+
+<aside class="sidebar">
+  
+    <section>
+  <h1>Recent Posts</h1>
+  <ul id="recent_posts">
+    
+      <li class="post">
+        <a href="/2006/06/magic-workstation-guide/">Magic Workstation Guide</a>
+      </li>
+    
+      <li class="post">
+        <a href="/2006/06/peasant-magic/">Peasant Magic</a>
+      </li>
+    
+      <li class="post">
+        <a href="/2005/11/ravnica-sleepers/">Ravnica Sleepers</a>
+      </li>
+    
+      <li class="post">
+        <a href="/2005/10/other-peoples-decks-samurai/">Other People's Decks - Samurai</a>
+      </li>
+    
+      <li class="post">
+        <a href="/2005/10/other-peoples-decks/">Other People's Decks</a>
+      </li>
+    
+  </ul>
+</section>
+<section>
+  <h1>Monthly Archives</h1>
+  <div class="monthly_archive"><ul class="year_list"><li class="year">2006 (2)</li><ul class="month_list"><li class="month"><a href='/2006/06/'>JUN (2)</a></li></ul><li class="year">2005 (33)</li><ul class="month_list"><li class="month"><a href='/2005/11/'>NOV (1)</a></li><li class="month"><a href='/2005/10/'>OCT (2)</a></li><li class="month"><a href='/2005/09/'>SEP (1)</a></li><li class="month"><a href='/2005/08/'>AUG (5)</a></li><li class="month"><a href='/2005/07/'>JUL (4)</a></li><li class="month"><a href='/2005/06/'>JUN (5)</a></li><li class="month"><a href='/2005/05/'>MAY (6)</a></li><li class="month"><a href='/2005/04/'>APR (4)</a></li><li class="month"><a href='/2005/03/'>MAR (5)</a></li></ul></ul></div>
+</section><section>
+  <h1>Categories</h1>
+    <ul id="category-list"><li><a href='/categories/alternate-formats'>alternate formats (2)</a></li><li><a href='/categories/block'>block (1)</a></li><li><a href='/categories/casual'>casual (14)</a></li><li><a href='/categories/competitive'>competitive (9)</a></li><li><a href='/categories/constructed'>constructed (26)</a></li><li><a href='/categories/draft'>draft (1)</a></li><li><a href='/categories/extended'>extended (1)</a></li><li><a href='/categories/general-other'>general / other (6)</a></li><li><a href='/categories/limited'>limited (1)</a></li><li><a href='/categories/standard'>standard (8)</a></li><li><a href='/categories/theory'>theory (7)</a></li><li><a href='/categories/type-3'>type 3 (3)</a></li></ul>
+</section>
+  
+</aside>
+
+
+    </div>
+  </div>
+  <footer role="contentinfo"><p>
+  Copyright &copy; 2014 - Jonathan Bernardi -
+  <span class="credit">Powered by <a href="http://octopress.org">Octopress</a></span>
+</p>
+
+</footer>
+  
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) {return;}
+  js = d.createElement(s); js.id = id; js.async = true;
+  js.src = "//connect.facebook.net/en_US/all.js#appId=212934732101925&xfbml=1";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+
+
+  <script type="text/javascript">
+    (function() {
+      var script = document.createElement('script'); script.type = 'text/javascript'; script.async = true;
+      script.src = 'https://apis.google.com/js/plusone.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(script, s);
+    })();
+  </script>
+
+
+
+  <script type="text/javascript">
+    (function(){
+      var twitterWidgets = document.createElement('script');
+      twitterWidgets.type = 'text/javascript';
+      twitterWidgets.async = true;
+      twitterWidgets.src = '//platform.twitter.com/widgets.js';
+      document.getElementsByTagName('head')[0].appendChild(twitterWidgets);
+    })();
+  </script>
+
+
+
+<div id="mtg-card-popup-wrapper">
+    <div id="mtg-card-popup"></div>
+</div>
+<script src="/javascripts/jquery-cluetip-1.2.10/jquery.cluetip.min.js"></script>
+<script>
+    $( document ).ready(function() {
+        $('.mtg-card-link').cluetip({
+            width: 245,
+            sticky: false,
+            positionBy: 'auto',
+            attribute: 'rel',
+            local: true,
+            hideLocal: true,
+            arrows: true,
+            showTitle: false,
+            cluetipClass: 'default',
+            waitImage: true,
+            dropShadow: false,
+            activation: 'hover',
+            mouseOutClose: true,
+            closePosition: 'top',
+            closeText: '&times;',
+            clickThrough: false,
+            onActivate: function(e) {
+                var $image = $('#mtg-card-popup-image');
+                if(!$image.length){
+                    $image = $('<img id="mtg-card-popup-image">');
+                    $('#mtg-card-popup').html($image);
+                }
+                $('#mtg-card-popup-image').attr('src', $(this).attr('href'));
+                $('#mtg-card-popup-image').attr('alt', $(this).data('card'));
+                return true;
+            }
+        });
+        $( "#mtg-card-popup" ).click(function( e ) {
+            $(document).trigger('hideCluetip');
+        });
+    });
+</script>
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-35759255-2', 'auto');
+  ga('send', 'pageview');
+
+</script>
+
+
+
+
+<script type="text/javascript">
+      var disqus_shortname = 'spekkionu';
+      
+        
+        // var disqus_developer = 1;
+        var disqus_identifier = 'http://www.spekkionu.com/2005/05/card-advantage-in-multiplayer/';
+        var disqus_url = 'http://www.spekkionu.com/2005/05/card-advantage-in-multiplayer/';
+        var disqus_script = 'embed.js';
+        function disqus_config() {
+            this.callbacks.onNewComment = [function(comment) {
+              ga('send', 'event', 'comment', 'post', 'Post a Comment');
+            }];
+        }
+      
+    (function () {
+      var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+      dsq.src = '//' + disqus_shortname + '.disqus.com/' + disqus_script;
+      (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+    }());
+</script>
+
+
+
+</body>
+</html>
