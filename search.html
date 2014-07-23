@@ -9,7 +9,7 @@
   <meta name="author" content="Jonathan Bernardi">
 
   
-  <meta name="description" content="Search Results $('#search_results').tapir({ 'token': '53cf674d08690f0200000000', 'complete' : function() { document.getElementById('search_loading &hellip;">
+  <meta name="description" content="Search Results $('#search_results').tapir({ 'token': '', 'complete' : function() { document.getElementById('search_loading').style.display="none &hellip;">
   
 
   <!-- http://t.co/dKP3o1e -->
@@ -46,9 +46,10 @@
   
 </ul>
   
-  <form method="get" action="/search.html">
+  <form action="https://www.google.com/search" method="get">
     <fieldset role="search">
-      <input class="search" name="query" type="text" placeholder="Search..." x-webkit-speech />
+      <input type="hidden" name="q" value="site:www.spekkionu.com" />
+      <input class="search" type="text" name="q" results="0" placeholder="Search"/>
     </fieldset>
   </form>
 
@@ -80,7 +81,7 @@
 </div>
 <script>
     $('#search_results').tapir({
-        'token': '53cf674d08690f0200000000',
+        'token': '',
         'complete' : function() { document.getElementById('search_loading').style.display="none"; }
     });
 </script>
