@@ -1,4 +1,5 @@
 User-agent: *
 Disallow: search.html
+Disallow: atom_search.xml
 
 Sitemap: http://www.spekkionu.com/sitemap.xml
